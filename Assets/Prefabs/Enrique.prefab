@@ -121,6 +121,8 @@ Transform:
   - {fileID: 9143132583598194234}
   - {fileID: 5588640144620394548}
   - {fileID: 5206322777049129441}
+  - {fileID: 4381305772484607637}
+  - {fileID: 1674120728268521840}
   - {fileID: 3964688951807122411}
   m_Father: {fileID: 7582672812593252918}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -375,6 +377,68 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4439890086187746904, guid: be580d39b964e45d3a96ebbbe18fd1d6, type: 3}
   m_PrefabInstance: {fileID: 763587847643913651}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1538563321508380624
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8775682347555629612}
+    m_Modifications:
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.233
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.224
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6963643
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.122787856
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6963643
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.122787856
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 8654844223907921137, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_Name
+      value: Right Curved Eyebrow
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 062e4127402464952a99653b57824f60, type: 3}
+--- !u!4 &1674120728268521840 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+  m_PrefabInstance: {fileID: 1538563321508380624}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2955690464805296551
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -517,7 +581,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8823369267241044700, guid: b39cf72857a304dcda2c87500fcd7953, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.48
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8823369267241044700, guid: b39cf72857a304dcda2c87500fcd7953, type: 3}
       propertyPath: m_LocalPosition.y
@@ -564,6 +628,68 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 8823369267241044700, guid: b39cf72857a304dcda2c87500fcd7953, type: 3}
   m_PrefabInstance: {fileID: 4034153258218312424}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4516053511174340661
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8775682347555629612}
+    m_Modifications:
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.233
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.224
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6963643
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.12278779
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6963643
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.12278779
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 8654844223907921137, guid: 062e4127402464952a99653b57824f60, type: 3}
+      propertyPath: m_Name
+      value: Left Curved Eyebrow
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 062e4127402464952a99653b57824f60, type: 3}
+--- !u!4 &4381305772484607637 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 171621527750704800, guid: 062e4127402464952a99653b57824f60, type: 3}
+  m_PrefabInstance: {fileID: 4516053511174340661}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7783327720800277769
 PrefabInstance:
