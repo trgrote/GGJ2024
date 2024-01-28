@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 15f11e70ccb18497380ae7d600bb4cb7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _destructableObjects: {fileID: 11400000, guid: 9e24adc6524d84ae7b546eb054174e3b, type: 2}
+  - _endOfGameEvent: {fileID: 11400000, guid: 56eaa660e033e4f8a8f3c2fa1d10fc76, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
