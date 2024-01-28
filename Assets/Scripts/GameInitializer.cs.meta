@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fa36697c0f3f140758ea981e69a434cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _laughCounter: {fileID: 11400000, guid: f3832797e568940b9b33410561e423a5, type: 2}
+  - _startGameEvt: {fileID: 11400000, guid: eb6d7331e02d54c808640498588bcf97, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
