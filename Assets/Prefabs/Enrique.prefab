@@ -5010,6 +5010,9 @@ GameObject:
   m_Component:
   - component: {fileID: 7582672812593252918}
   - component: {fileID: 7091427162993163466}
+  - component: {fileID: 742086575752493331}
+  - component: {fileID: 3448524569457924363}
+  - component: {fileID: 6154666752679025389}
   m_Layer: 0
   m_Name: Enrique
   m_TagString: Untagged
@@ -5055,6 +5058,87 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &742086575752493331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319783974752546151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34c7f6401a17a4b1db18265b2838b850, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _paramName: Laughing
+--- !u!114 &3448524569457924363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319783974752546151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a5a2a465af8023499ee45e047c4765c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Event: {fileID: 11400000, guid: 138e7e4a67fa243cb9c0720a11079cf1, type: 2}
+  Response:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: f3832797e568940b9b33410561e423a5, type: 2}
+        m_TargetAssemblyTypeName: rho.RuntimeFloat, Rho
+        m_MethodName: ModValue
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 1
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 742086575752493331}
+        m_TargetAssemblyTypeName: EnriqueAnimationHelper, Assembly-CSharp
+        m_MethodName: SetBool
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+--- !u!114 &6154666752679025389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319783974752546151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 241330a5967c6447ead2f434a8213a22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _laughingTimer: {fileID: 11400000, guid: f3832797e568940b9b33410561e423a5, type: 2}
+  _onLaughRunout:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 742086575752493331}
+        m_TargetAssemblyTypeName: EnriqueAnimationHelper, Assembly-CSharp
+        m_MethodName: SetBool
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &3995511453480346818
 GameObject:
   m_ObjectHideFlags: 0
