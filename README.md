@@ -12,7 +12,7 @@ He can neither read nor write and in him broods already a taste for mindless vio
 - [X] Add Chair for Enrique
 - [X] Put Enrique in chair
 - [X] Add Fade out and Quote
-- [ ] Add Restart Scene Logic
-- [ ] Add Cinemachine
+- [X] Add Restart Scene Logic
+- [X] Add Cinemachine
 - [ ] Add Focus on Enrique State Machine
 
