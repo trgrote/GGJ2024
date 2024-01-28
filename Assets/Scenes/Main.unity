@@ -1117,11 +1117,11 @@ PrefabInstance:
       objectReference: {fileID: 1186629385}
     - target: {fileID: 2518752688820047635, guid: 534991e5232044dc0a47d811c174b3df, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.000000018924464
+      value: 0.00000001892447
       objectReference: {fileID: 0}
     - target: {fileID: 2518752688820047635, guid: 534991e5232044dc0a47d811c174b3df, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.0000000034552832
+      value: -0.0000000034552843
       objectReference: {fileID: 0}
     - target: {fileID: 7416359499325375249, guid: 534991e5232044dc0a47d811c174b3df, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1169,11 +1169,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8416447072749969895, guid: 534991e5232044dc0a47d811c174b3df, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.000000018924464
+      value: 0.00000001892447
       objectReference: {fileID: 0}
     - target: {fileID: 8416447072749969895, guid: 534991e5232044dc0a47d811c174b3df, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.0000000034552832
+      value: -0.0000000034552843
       objectReference: {fileID: 0}
     - target: {fileID: 9011316016994690875, guid: 534991e5232044dc0a47d811c174b3df, type: 3}
       propertyPath: m_ChildCameras.Array.size

@@ -16,4 +16,5 @@ He can neither read nor write and in him broods already a taste for mindless vio
 - [X] Add Cinemachine
 - [ ] Add Focus on Enrique State Machine
 - [ ] Add Game Start Event to trigger zoom out
+- [X] Add Game end event to trigger zoom in
 
