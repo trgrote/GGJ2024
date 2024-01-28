@@ -11,5 +11,6 @@ He can neither read nor write and in him broods already a taste for mindless vio
 	- [X] Add laughing sounds
 - [X] Add Chair for Enrique
 - [X] Put Enrique in chair
-- [ ] Add Fade out and Quote
+- [X] Add Fade out and Quote
+- [ ] Add Restart Scene Logic
 
