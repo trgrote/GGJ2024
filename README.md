@@ -5,7 +5,7 @@ He can neither read nor write and in him broods already a taste for mindless vio
 
 ## TODO
 - [X] Add Laugh Tears
-- [ ] Add Laugh Animation jiggle
+- [X] Add Laugh Animation jiggle
 - [ ] Add Laugh system so he laughs based off events
 - [ ] Add Chair for Enrique
 - [ ] Put Enrique in chair
